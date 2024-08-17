@@ -1,1 +1,2 @@
 httpx
+git+https://github.com/rekcah-pavi/geminikit
